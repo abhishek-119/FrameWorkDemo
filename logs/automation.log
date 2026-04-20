@@ -1,0 +1,5 @@
+2026-04-20 13:14:13 INFO  testLogin:14 - *******Starting LoginTest **********
+2026-04-20 13:14:13 INFO  testAccountReg:15 - *******Starting test1_AccountRegistration **********
+2026-04-20 13:14:15 INFO  testAccountReg:20 - *******clicked on myAccount**********
+2026-04-20 13:14:15 INFO  testAccountReg:21 - *******clicked on register link**********
+2026-04-20 13:14:15 INFO  testAccountReg:25 - *******providing customer details**********
